@@ -55,5 +55,9 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/RedDanieloto/RedDanieloto/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <a href="https://open.spotify.com/user/1vgevun3c49cm3xtizpkw25mm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1vgevun3c49cm3xtizpkw25mm&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 ###
