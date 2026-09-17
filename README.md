@@ -23,19 +23,19 @@ I'm especially interested in **Full-Stack Development, Mobile Development, AI in
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,kotlin,swift,php,dart" />
 </p>
 
 ### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,astro,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,astro,nodejs,laravel,fastapi,reactnative,flutter,adonisjs" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,jest,storybook,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,jest,vscode,androidstudio,twilio" />
 </p>
 
 ---
