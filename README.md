@@ -91,11 +91,11 @@ The application generates a verification word and initiates a phone call where t
 
 <div align="left">
 
-<a href="https://www.youtube.com/@inotred">
+<a href="https://www.youtube.com/@inotred6771">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/ldaanx__/">
+<a href="https://www.instagram.com/ldanx__/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
