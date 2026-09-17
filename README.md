@@ -91,25 +91,18 @@ The application generates a verification word and initiates a phone call where t
 
 <div align="left">
 
-<a href="https://www.youtube.com/@RedDanieloto">
+<a href="https://www.youtube.com/@inotred">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/RedDanieloto">
+<a href="https://www.instagram.com/ldaanx__/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.twitch.tv/RedDanieloto">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/RedDanieloto/">
+<a href="https://www.linkedin.com/in/dan-cabrerag/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/RedDanieloto">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 
 </div>
 
