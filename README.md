@@ -102,19 +102,6 @@ Built with a focus on performance, responsive design, clean architecture and pre
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=RedDanieloto&theme=dracula&hide_border=false"
-  alt="GitHub Streak"
-/>
-
-</div>
-
----
-
 ## 🌎 Connect With Me
 
 <div align="left">
@@ -138,17 +125,6 @@ Built with a focus on performance, responsive design, clean architecture and pre
 <a href="https://www.facebook.com/RedDanieloto">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<img
-  src="https://profile-counter.glitch.me/RedDanieloto/count.svg"
-  alt="Profile Views"
-/>
 
 </div>
 
