@@ -29,13 +29,13 @@ I'm especially interested in **Full-Stack Development, Mobile Development, AI in
 ### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,astro,nodejs,laravel,fastapi,reactnative,flutter,adonisjs" />
+  <img src="https://skillicons.dev/icons?i=react,astro,nodejs,laravel,fastapi,vue,flutter,adonis,angular,mongodb,mysql,nuxtjs" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,jest,vscode,androidstudio,twilio" />
+  <img src="https://skillicons.dev/icons?i=git,github,jest,vscode,androidstudio,twilio,bootstrap,figma" />
 </p>
 
 ---
