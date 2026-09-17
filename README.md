@@ -47,7 +47,7 @@ My personal developer portfolio, designed and developed from scratch using **Ast
 Built with a focus on performance, responsive design, clean architecture and presenting my experience and projects.
 
 <a href="https://danito.tech">
-  <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-9747FF?style=for-the-badge&logo=lightning-network&logoColor=white" />
 </a>
 
 
