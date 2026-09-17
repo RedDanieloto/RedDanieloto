@@ -86,8 +86,17 @@ Built with a focus on performance, responsive design, clean architecture and pre
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" />
-<img src="./profile/top-langs.svg" height="180" />
+<img
+  src="https://raw.githubusercontent.com/RedDanieloto/RedDanieloto/main/profile/stats.svg"
+  height="180"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://raw.githubusercontent.com/RedDanieloto/RedDanieloto/main/profile/top-langs.svg"
+  height="180"
+  alt="Top Languages"
+/>
 
 </div>
 
@@ -97,7 +106,10 @@ Built with a focus on performance, responsive design, clean architecture and pre
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RedDanieloto&theme=dracula&hide_border=false" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=RedDanieloto&theme=dracula&hide_border=false"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -131,23 +143,12 @@ Built with a focus on performance, responsive design, clean architecture and pre
 
 ---
 
-## 🎧 Recently Played
-
 <div align="center">
 
-<a href="https://open.spotify.com/">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w7p5p6p6k5t6p6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/RedDanieloto/count.svg" />
+<img
+  src="https://profile-counter.glitch.me/RedDanieloto/count.svg"
+  alt="Profile Views"
+/>
 
 </div>
 
