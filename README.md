@@ -82,26 +82,6 @@ Built with a focus on performance, responsive design, clean architecture and pre
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/RedDanieloto/RedDanieloto/main/profile/stats.svg"
-  height="180"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://raw.githubusercontent.com/RedDanieloto/RedDanieloto/main/profile/top-langs.svg"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
 ## 🌎 Connect With Me
 
 <div align="left">
