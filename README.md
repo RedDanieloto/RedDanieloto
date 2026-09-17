@@ -40,6 +40,20 @@ I'm especially interested in **Full-Stack Development, Mobile Development, AI in
 
 ---
 
+## 🌐 Personal Portfolio
+
+My personal developer portfolio, designed and developed from scratch using **Astro.js**.
+
+Built with a focus on performance, responsive design, clean architecture and presenting my experience and projects.
+
+<a href="https://danito.tech">
+  <img src="https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
+---
+
+
 ## 💻 Featured Projects
 
 ### 🏢 HR Management System
@@ -72,15 +86,6 @@ The application generates a verification word and initiates a phone call where t
 
 ---
 
-### 🌐 Personal Portfolio
-
-My personal developer portfolio, designed and developed from scratch using **Astro.js**.
-
-Built with a focus on performance, responsive design, clean architecture and presenting my experience and projects.
-
-**Focus:** Astro · Web Development · UI/UX · Performance
-
----
 
 ## 🌎 Connect With Me
 
