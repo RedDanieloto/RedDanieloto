@@ -35,7 +35,7 @@ I'm especially interested in **Full-Stack Development, Mobile Development, AI in
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,jest,vscode,androidstudio,twilio,bootstrap,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,jest,vscode,androidstudio,bootstrap,figma" />
 </p>
 
 ---
